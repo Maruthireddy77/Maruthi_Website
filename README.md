@@ -106,6 +106,3 @@ python app.py
 * Current setup uses **Books to Scrape** as demo products.
 * Images and links are directly scraped and displayed.
 * Search and sorting work without needing categories.
-
-
-Do you want me to do that?
