@@ -53,7 +53,7 @@ pip install flask requests beautifulsoup4
 1. **Clone the repository:**
 
 ```bash
-git clone <your-repo-url>
+git clone (https://github.com/Maruthireddy77/Maruthi_Website.git)
 cd Maruthi_Website
 ```
 
